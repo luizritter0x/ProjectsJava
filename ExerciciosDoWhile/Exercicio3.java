@@ -2,7 +2,7 @@ package ExerciciosDoWhile;
 
 import java.util.Scanner;
 
-public class AT3_ContagemRegressiva {
+public class Exercicio3 {
 
     public static void main(String[] args) {
 
