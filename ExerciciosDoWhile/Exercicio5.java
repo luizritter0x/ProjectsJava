@@ -1,15 +1,9 @@
-
-
-package Atividades_DoWhile;
+package ExerciciosDoWhile;
 
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- *
- * @author Aluno
- */
-public class AT5_Advinhação {
+public class Exercicio5 {
 
     public static void main(String[] args) {
         
