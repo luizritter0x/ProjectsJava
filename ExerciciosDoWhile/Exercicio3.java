@@ -1,11 +1,7 @@
-package Atividades_DoWhile;
+package ExerciciosDoWhile;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Aluno
- */
 public class AT3_ContagemRegressiva {
 
     public static void main(String[] args) {
