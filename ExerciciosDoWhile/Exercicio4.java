@@ -1,14 +1,8 @@
-
-
-package Atividades_DoWhile;
+package ExerciciosDoWhile;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Aluno
- */
-public class AT4_MenuDeOpções {
+public class Exercicio4 {
 
     public static void main(String[] args) {
         
