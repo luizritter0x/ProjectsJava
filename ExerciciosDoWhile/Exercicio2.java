@@ -1,13 +1,7 @@
-
-
-package Atividades_DoWhile;
+package ExerciciosDoWhile;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Aluno
- */
 public class AT2_MédiaDeNotas {
 
     public static void main(String[] args) {
