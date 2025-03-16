@@ -2,7 +2,7 @@ package ExerciciosDoWhile;
 
 import java.util.Scanner;
 
-public class AT1_SomaDosNúmeros {
+public class Exercicio1 {
 
     public static void main(String[] args) {
         
