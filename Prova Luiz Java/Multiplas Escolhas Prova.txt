@@ -1,0 +1,20 @@
+41. Qual das opções representa corretamente a criação de um ArrayList de inteiros?
+a) ArrayList<int> lista = new ArrayList<>();
+42. Qual estrutura é mais adequada para evitar valores duplicados?
+c) HashSet
+43. O que o método `equalsIgnoreCase` faz em Java?
+b) Compara strings ignorando letras maiúsculas/minúsculas
+44. Qual comando Java é usado para interromper um laço de repetição?
+b) break
+45. Qual dos seguintes métodos pertence à classe Math?
+c) .sqrt()
+46. Qual das opções abaixo representa um laço de repetição em Java?
+c) for
+47. O que significa a sigla IDE no contexto de programação?
+b) Integrated Development Environment
+48. Qual tipo de dado é usado para representar números com casas decimais?
+d) double
+49. O que o código `ArrayList<String> lista = new ArrayList<>();` faz?
+c) Cria um array de strings
+50. O método `nextLine()` da classe Scanner serve para:
+c) Ler uma linha completa de texto
